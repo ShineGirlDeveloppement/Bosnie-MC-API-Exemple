@@ -1,0 +1,8 @@
+name: BosnieMCApiExemple
+version: 1.0
+author: ShineGirl
+main: net.shine.exemple.Main
+depend: [BosnieMCApi]
+commands:
+    playerinfo:
+        description: Regarder les informations d'un joueur
